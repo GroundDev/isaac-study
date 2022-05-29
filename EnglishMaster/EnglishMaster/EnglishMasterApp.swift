@@ -11,7 +11,7 @@ import SwiftUI
 struct EnglishMasterApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            EnglishWordsView()
         }
     }
 }
